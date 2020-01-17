@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="95476f20-325b-478c-984f-3377f2e7047c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="HDFS-Task-1.1" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="HDFS-Task-1.1" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="HDFS-Task-1.1" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="HDFS-Task-1.1" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WUuqAjGREwgO1m3dZHXWmtwhRK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Gradle.HDFS-Task-1.1 [build]">
+    <configuration name="HDFS-Task-1.1 [buildDependents]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="buildDependents" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="HDFS-Task-1.1 [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="HDFS-Task-1.1 [classes]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="classes" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="HDFS-Task-1.1 [intro]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="intro" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="HDFS-Task-1.1 [processResources]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="processResources" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.HDFS-Task-1.1 [build]" />
+        <item itemvalue="Gradle.HDFS-Task-1.1 [processResources]" />
+        <item itemvalue="Gradle.HDFS-Task-1.1 [intro]" />
+        <item itemvalue="Gradle.HDFS-Task-1.1 [classes]" />
+        <item itemvalue="Gradle.HDFS-Task-1.1 [buildDependents]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95476f20-325b-478c-984f-3377f2e7047c" name="Default Changelist" comment="" />
+      <created>1579216682120</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579216682120</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="496" y="203" key="#Project_Structure" timestamp="1579216832106">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state x="496" y="203" key="#Project_Structure/0.23.1792.1030@0.23.1792.1030" timestamp="1579216832106" />
+    <state x="455" y="208" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1579276496675">
+      <screen x="0" y="23" width="1792" height="1024" />
+    </state>
+    <state x="455" y="208" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.1792.1024@0.23.1792.1024" timestamp="1579276496675" />
+    <state width="1750" height="279" key="GridCell.Tab.0.bottom" timestamp="1579297257634">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="279" key="GridCell.Tab.0.bottom/0.23.1792.1024@0.23.1792.1024" timestamp="1579297088471" />
+    <state width="1750" height="279" key="GridCell.Tab.0.bottom/0.23.1792.1026@0.23.1792.1026" timestamp="1579297257634" />
+    <state width="1750" height="279" key="GridCell.Tab.0.bottom/0.23.1792.1028@0.23.1792.1028" timestamp="1579234007355" />
+    <state width="1750" height="281" key="GridCell.Tab.0.bottom/0.23.1792.1030@0.23.1792.1030" timestamp="1579216870792" />
+    <state width="1750" height="279" key="GridCell.Tab.0.center" timestamp="1579297257633">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="279" key="GridCell.Tab.0.center/0.23.1792.1024@0.23.1792.1024" timestamp="1579297088470" />
+    <state width="1750" height="279" key="GridCell.Tab.0.center/0.23.1792.1026@0.23.1792.1026" timestamp="1579297257633" />
+    <state width="1750" height="279" key="GridCell.Tab.0.center/0.23.1792.1028@0.23.1792.1028" timestamp="1579234007354" />
+    <state width="1750" height="281" key="GridCell.Tab.0.center/0.23.1792.1030@0.23.1792.1030" timestamp="1579216870792" />
+    <state width="1750" height="279" key="GridCell.Tab.0.left" timestamp="1579297257633">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="279" key="GridCell.Tab.0.left/0.23.1792.1024@0.23.1792.1024" timestamp="1579297088469" />
+    <state width="1750" height="279" key="GridCell.Tab.0.left/0.23.1792.1026@0.23.1792.1026" timestamp="1579297257633" />
+    <state width="1750" height="279" key="GridCell.Tab.0.left/0.23.1792.1028@0.23.1792.1028" timestamp="1579234007354" />
+    <state width="1750" height="281" key="GridCell.Tab.0.left/0.23.1792.1030@0.23.1792.1030" timestamp="1579216870791" />
+    <state width="1750" height="279" key="GridCell.Tab.0.right" timestamp="1579297257633">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="279" key="GridCell.Tab.0.right/0.23.1792.1024@0.23.1792.1024" timestamp="1579297088470" />
+    <state width="1750" height="279" key="GridCell.Tab.0.right/0.23.1792.1026@0.23.1792.1026" timestamp="1579297257633" />
+    <state width="1750" height="279" key="GridCell.Tab.0.right/0.23.1792.1028@0.23.1792.1028" timestamp="1579234007354" />
+    <state width="1750" height="281" key="GridCell.Tab.0.right/0.23.1792.1030@0.23.1792.1030" timestamp="1579216870792" />
+  </component>
+</project>

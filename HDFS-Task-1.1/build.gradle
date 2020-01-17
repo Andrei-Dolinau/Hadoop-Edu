@@ -1,0 +1,33 @@
+plugins {
+    id 'java'
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+jar {
+    archiveName('appGetSchemaAvroFile.jar')
+    manifest{
+        attributes 'Main-Class': 'appGetSchemaAvroFile'
+    }
+}
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    compileOnly group: 'org.apache.hadoop', name: 'hadoop-client', version: '3.1.1'
+    compileOnly group: 'org.apache.avro', name: 'avro-tools', version: '1.7.1'
+}
+
+// add ssh plugin for gradle
+
+task deployTask(type: Exec) {
+    dependsOn clean, build
+    doLast {
+        commandLine 'sh ls'
+    }
+}
